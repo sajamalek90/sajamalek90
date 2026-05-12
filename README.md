@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qS5jxl8AQNx_1dF8D7ARNGwPBAYTs5aB/view?usp=sharing](https://drive.google.com/file/d/1qS5jxl8AQNx_1dF8D7ARNGwPBAYTs5aB/view?usp=sharing)
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sajamalek90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sajamalek90" height="30" width="40" /></a>
@@ -26,6 +28,8 @@
 <a href="https://codeforces.com/profile/sajamalek90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sajamalek90" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/cymbypmpet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cymbypmpet" height="30" width="40" /></a>
 </p>
+
+---
 
 <h3 align="left">Languages & Tools:</h3>
 
@@ -90,6 +94,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> Python
 </p>
 
+---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajamalek90&" alt="sajamalek90" /></p>
 
