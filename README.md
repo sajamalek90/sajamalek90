@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saja Malek</h1>
-<h3 align="center">A passionate full stack developer from Egypt</h3>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Angular+%7C+React+%7C+Node.js;Frontend+Team+Leader;Passionate+Problem+Solver" />
+</h3>
 
 - 🔭 I’m currently working on **Scratch Platform**
 
