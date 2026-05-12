@@ -90,9 +90,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> Python
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajamalek90&show_icons=true&locale=en&layout=compact" alt="sajamalek90" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajamalek90&show_icons=true&locale=en" alt="sajamalek90" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajamalek90&" alt="sajamalek90" /></p>
 
