@@ -99,15 +99,7 @@
 
 ---
 <h4>Stats</h4>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajamalek90&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajamalek90&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajamalek90&theme=tokyonight" />
 </p>
 
